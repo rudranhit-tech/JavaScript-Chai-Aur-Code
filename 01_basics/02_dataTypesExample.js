@@ -40,4 +40,4 @@ console.log("Object:", person, typeof person);
 console.log("Undefined:", undefinedVar, typeof undefinedVar);
 console.log("Null:", nullVar, typeof nullVar);
 console.log("Symbol:", uniqueId, typeof uniqueId);
-// console.log("BigInt:", bigNumber, typeof bigNumber);
+console.log("BigInt:", bigNumber, typeof bigNumber);
