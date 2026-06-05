@@ -6,7 +6,7 @@ accountCity = "Jaipur";
 // console.log(accountId);
 accountCity = "Durgapur";
 accountName = "Suman";
-accountEmail = "rc@rchakraborty.com"
+// accountEmail = "rc@rchakraborty.com"
 
-console.table ([accountEmail, accountId, accountName, accountCity]);
+// console.table ([accountEmail, accountId, accountName, accountCity]);
 
