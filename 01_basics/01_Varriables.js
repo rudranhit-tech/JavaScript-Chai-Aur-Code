@@ -9,5 +9,3 @@ accountName = "Suman";
 // accountEmail = "rc@rchakraborty.com"
 
 console.table ([accountEmail, accountId, accountName, accountCity]);
-
-// Test
