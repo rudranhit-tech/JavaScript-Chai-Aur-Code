@@ -14,9 +14,9 @@ let hobbies = ["coding", "reading", "gaming"];
 
 // Object
 let person = {
-    name: "Rudra",
-    age: 25,
-    isStudent: true
+  name: "Rudra",
+  age: 25,
+  isStudent: true,
 };
 
 // Undefined
